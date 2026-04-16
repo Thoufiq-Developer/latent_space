@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+qdrant-client
+openai
+apscheduler
+pydantic
+pydantic-settings
+python-dotenv
+langdetect
